@@ -37,7 +37,7 @@
 1. 克隆仓库到本地
 
 ```
-git clone https://github.com/你的用户名/wine-quality-prediction.git
+git clone https://github.com/lovedecimal/wine-quality-prediction.git
 ```
 
 2. 安装依赖
